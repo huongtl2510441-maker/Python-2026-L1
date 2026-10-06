@@ -1,5 +1,3 @@
-# labwork1b.py - Student Mark Management System
-
 def input_students():
     students = []
     n = int(input("Enter number of students in a class: "))
